@@ -4,7 +4,7 @@
 Risk analysis of credit card default using a data set provided by the Brazilian fintech Nubank.
 
 <p align="center" >
-  <img src="data/debt-bankruptcy-symbol_98292-4514.jpg", width='80%' >
+  <img src="data/debt-bankruptcy-symbol_98292-4514.jpg", width='60%' >
 </p>
 One of the most problematic areas for banks, funding bodies, and businessmen is the default rate of their clients.
 
@@ -24,5 +24,5 @@ The model is expected to be able to decrease the company's financial losses whil
 Take a look at the project and feel free to contact me with your feedback!
 
 <p align="center" >
-  <img src="data/rafaelnd_ds.png" >
+  <img src="rafaelnd_banner.png" width=70% >
 </p>
